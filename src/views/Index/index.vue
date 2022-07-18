@@ -1,10 +1,16 @@
 <template>
-  <div>dfa</div>
+  <div>
+    <index-header></index-header>
+  </div>
 </template>
 
 <script>
+import IndexHeader from './header.vue'
 export default {
-  name: 'Index'
+  name: 'index',
+  components: {
+    IndexHeader
+  }
 }
 </script>
 

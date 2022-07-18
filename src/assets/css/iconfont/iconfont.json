@@ -1,0 +1,23 @@
+{
+  "id": "3529940",
+  "name": "1722",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30175740",
+      "name": "Search-20",
+      "font_class": "Search-20",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "30175743",
+      "name": "Chevron-Left",
+      "font_class": "Chevron-Left",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
