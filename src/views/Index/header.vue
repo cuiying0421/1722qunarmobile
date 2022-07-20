@@ -4,13 +4,16 @@
     <div class="search">
       <span class="iconfont search-icon">&#xe611;</span>请输入搜索内容
     </div>
-    <div class="city">乌鲁木齐</div>
+    <div class="city">
+      <router-link to="/city" class="city-link">{{ city }}</router-link>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'index-header'
+  name: 'index-header',
+  props: ['city']
 }
 </script>
 
@@ -52,4 +55,6 @@ export default {
       border-left: .14rem solid transparent
       border-right: .14rem solid transparent
       border-top: .14rem solid #fff
+    .city-link
+      color: #fff
 </style>

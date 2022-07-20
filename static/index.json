@@ -1,0 +1,14 @@
+{
+    "ret":true,
+    "data":{
+        "swiperList":[{
+            "id": "1001",
+            "imgUrl": "https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+            "link": "/list"
+          }, {
+            "id": "1002",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1806/d0/d033ab35c038b7c4a3.img.jpg_256x160_b4b0587c.jpg",
+            "link": "/list"
+          }]
+    }
+}
